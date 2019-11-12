@@ -1,0 +1,18 @@
+"Print the largest (maximum) hourglass sum found in ARR."
+
+Essentially, in a 6x 6 2D array:
+                            A B C D E F 
+                            G H I J K L
+                            M N O P Q R
+                            S T U V W X 
+                            Y Z 1 2 3 4
+                            5 6 7 8 9 0
+                            
+an hour glass is this shape: 
+                             1 1 1
+                               1
+                             1 1 1
+                             
+Find the hourglass in the array that has the largest sum.
+
+HINT: There should be 16 hour glass sums in all of the arrays
