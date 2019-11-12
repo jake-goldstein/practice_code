@@ -6,4 +6,4 @@ So there will be a few directories here, one for data structures, algorithms and
 In each of those there will be sub dirs for things like arrays or what not (not seperated by difficulty).
 In each of those I'm thinking there will be a prompt, and a solution for all the problems that I have done, and perhaps for every language
 
-(college email address)
+_(college email address)_
