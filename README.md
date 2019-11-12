@@ -2,7 +2,7 @@
 This will be some practice coding that I will do. Good for things like interviews or just general getting skills better.
 
 
-## The first places that I want to look are here: ##
+## Sites to Practice: ##
 
 * https://codingcompetitions.withgoogle.com/codejam
 * https://leetcode.com/
@@ -14,4 +14,8 @@ This will be some practice coding that I will do. Good for things like interview
 * https://techdevguide.withgoogle.com/
 
 
+## Books to Read: ##
+
 * http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/toc.htm
+* https://www.investigatii.md/uploads/resurse/Clean_Code.pdf
+* https://kea.nu/files/textbooks/new/Effective%20Java%20%282017%2C%20Addison-Wesley%29.pdf
