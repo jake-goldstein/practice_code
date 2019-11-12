@@ -1,0 +1,30 @@
+This one is a bit confusing. 
+
+
+Start with lastAnswer = 0.
+
+You will get a list of lists and some number N which is a number of arrays to keep track of. 
+Each list contains 3 items. 
+
+Either:
+1: 1 x y
+2: 2 x y
+
+
+Case 1:
+Calculate the index of which array you want by doing this:
+
+x (bitwise XOR) lastAnswer % N  
+
+Then add y to the end of that array.
+
+
+Case 2:
+Calculate the index of which array you want by doing this:
+
+x (bitwise XOR) lastAnswer % N  
+
+Find y % size of the array that you are reffering to from the calc above.
+The output of that calculation is now lastAnswer
+
+You need to return a list of all of the last answers (not including the first one, the 0).
