@@ -4,6 +4,6 @@ I think the format will be just like it is on hackerrank, even if that means som
 
 So there will be a few directories here, one for data structures, algorithms and so on.
 In each of those there will be sub dirs for things like arrays or what not (seperated by difficulty).
-In each of those I'm thinking there will be a prompt, and a solution for all the problems that I have done, and perhaps for every language
+In each of those I'm thinking there will be a prompt, and a solution for all the problems that I have done, and perhaps (if I ever get there) a diff dir for every language
 
-_(college email address)_
+_(college email address)_ and standard
