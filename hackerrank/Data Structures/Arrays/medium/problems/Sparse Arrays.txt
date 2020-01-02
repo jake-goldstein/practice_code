@@ -1,0 +1,3 @@
+Given two arrays, a = ['a', 'b', 'c'], find how many times each string in a appears in b = ['aba', 'c', 'a', 'aba']
+
+Here you would return [1, 0, 1]
