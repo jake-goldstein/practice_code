@@ -18,3 +18,5 @@ Find the hourglass in the array that has the largest sum.
 
 HINT 1: The largest number that can be used in an arry is 9, while the smallest is -9
 HINT 2: There should be 16 hour glass sums in all of the arrays
+
+https://www.hackerrank.com/challenges/2d-array/problem
