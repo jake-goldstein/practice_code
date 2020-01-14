@@ -28,3 +28,5 @@ Find y % size of the array that you are reffering to from the calc above.
 The output of that calculation is now lastAnswer
 
 You need to return a list of all of the last answers (not including the first one, the 0).
+
+https://www.hackerrank.com/challenges/dynamic-array/problem
